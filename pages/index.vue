@@ -31,7 +31,6 @@ body {
   color: #ffffff;
 
   background-image: url("~static/background.png");
-  background-position: 85% 50%;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;

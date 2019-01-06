@@ -39,4 +39,10 @@
     }
   }
 }
+
+@media screen and (max-width: 600px) {
+  .hi {
+    background-attachment: scroll;
+  }
+}
 </style>
