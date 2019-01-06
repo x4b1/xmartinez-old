@@ -6,11 +6,11 @@
       <div class="text">
         <p>
           My name is <span class="accent">Xabier Martinez Moreno</span>, a guy from <span class="accent">Basque Country</span> who moved to <span class="accent">Barcelona</span> some years ago.
-          I'm <span class="accent">Software Developer</span>, I have coded in different programming languages, but I'm mainly focused in <span class="accent">backend development</span>.
+          I'm <span class="accent">Software Developer</span>, mainly focused in <span class="accent">backend development</span>.
           About my personality, I'm an <span class="accent">ambitious</span> developer, always looking for new challenges.
         </p>
         <p>
-          I almost spend all my free time doing <span class="accent">sport</span>, as it gives me the opportunity to <span class="accent">beat myself</span>, now I'm involved in obstacle races.
+          I spend my free time between <span class="accent">learning new things</span> to improve my self as developer, and doing <span class="accent">sport</span>, as it gives me the opportunity to <span class="accent">beat myself</span>, now I'm involved in obstacle races.
         </p>
       </div>
       <div

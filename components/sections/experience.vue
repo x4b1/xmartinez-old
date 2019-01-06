@@ -9,7 +9,8 @@
         title="Software developer"
         location="Arex"
         link="https://arex.io/">
-        Company bussines related with the tradings
+        Working as a software developer on Node.js and Golang microservices as back-end and Vue.js front-end. Now, we are working on migrate a monolith into microservices while we improve current functionalities. 
+        At first this was challenging because I changed from PHP to Node.js and Golang.
       </item>
       <item
         date-start="Feb 2018"
@@ -17,7 +18,9 @@
         title="Backend developer"
         location="Holaluz"
         link="https://www.holaluz.com/en/">
-        At Holaluz I was hired as PHP backend developer but finally I worked as Full Stack developer, also I had the opportunity to play with system automation stuff like Ansible. I worked in the team that developments were for the sales team. Apart from made new features in the current platform and fix some legacy code. We started to create a new platform that will handle all sales requirements.      </item>
+        At Holaluz I was hired as PHP backend developer but finally I worked as Full Stack developer, also I had the opportunity to play with system automation stuff like Ansible. I worked in the team that developments were for the sales team. Apart from made new features in the current platform and fix some legacy code. We started to create a new platform that will handle all sales requirements.
+        I used different PHP frameworks, as Symphony, Laravel and Zend, and PostgreSQL for DB 
+      </item>
       <item
         date-start="Jun 2017"
         date-end="Feb 2018"
@@ -47,12 +50,12 @@
         There I learned to apply the knowledge learned to develop with Oracles tools, such as JD Edwards and Oracle DB. First I was contracted for one year, when it finished they proposed me to extend the contract.
       </item>
       <item
-        date-start="2011 "
+        date-start="2011"
         date-end="2015"
         title="B.S. In Computer Science"
         location="UPV/EHU"
         link="https://www.ehu.eus/es/grado-ingenieria-informatica-de-gestion-y-sistemas-de-informacion-bizkaia">
-        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
+        During my time in college, I learned, algorithms, modelling (UML, sequence diagrams), testing... but I think the most important I learned to find a way to solve problems. The main technologies I used was Java and MySQL, but also I made some projects with JS, PHP and C.
       </item>
     </timeline>
   </section-base>
