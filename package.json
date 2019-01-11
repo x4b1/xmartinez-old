@@ -20,8 +20,7 @@
     "eslint-config-prettier": "^3.3.0",
     "eslint-plugin-prettier": "^3.0.1",
     "nuxt": "^2.0.0",
-    "prettier": "^1.15.3",
-    "vue-carousel": "^0.17.0"
+    "prettier": "^1.15.3"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",

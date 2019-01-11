@@ -21,7 +21,7 @@ export default {
 </script>
 
 
-<style lang="scss">
+<style lang="scss" >
 .section {
   padding: 5% 2%;
   height: 100%;

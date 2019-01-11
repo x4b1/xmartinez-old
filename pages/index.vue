@@ -22,7 +22,7 @@ export default {
   }
 }
 </script>
-<style lang="scss">
+<style lang="scss" >
 @import url("https://fonts.googleapis.com/css?family=Dosis");
 @import "@/node_modules/normalize.css";
 
