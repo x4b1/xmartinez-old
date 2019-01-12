@@ -39,8 +39,9 @@ export default {
     padding: 10px;
   }
   .icon {
+    display: flex;
     width: 4.5rem;
-    text-align: center;
+    justify-content: center;
     svg {
       height: 100%;
     }

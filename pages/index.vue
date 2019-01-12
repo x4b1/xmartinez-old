@@ -2,7 +2,7 @@
   <div>
     <hi-section />
     <bio-section />
-    <!-- <skills-section /> -->
+    <skills-section />
     <experience-section />
   </div>
 </template>
@@ -23,8 +23,13 @@ export default {
 }
 </script>
 <style lang="scss" >
-@import url("https://fonts.googleapis.com/css?family=Dosis");
 @import "@/node_modules/normalize.css";
+
+@font-face {
+  font-family: 'Dosis';
+  src: url('~assets/fonts/Dosis/Dosis-Regular.ttf') format('truetype');
+}
+
 
 body {
   font-family: "Dosis", sans-serif;

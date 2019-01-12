@@ -27,14 +27,16 @@ module.exports = {
   ** Global CSS
   */
   css: [
-    '@fortawesome/fontawesome-svg-core/styles.css'
+    '@fortawesome/fontawesome-svg-core/styles.css',
+    'devicon/devicon.min.css'
   ],
 
   /*
   ** Plugins to load before mounting the App
   */
   plugins: [
-    '~/plugins/font-awesome.js'
+    '~/plugins/font-awesome.js',
+    '~/plugins/v-tooltip.js'
   ],
 
   /*
