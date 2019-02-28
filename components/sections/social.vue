@@ -40,7 +40,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 40px;
+    margin: 10% 2% 5%;
     .bubble {
       display: block;
       text-align: center;
