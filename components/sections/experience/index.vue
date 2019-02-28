@@ -9,7 +9,7 @@
         title="Software developer"
         location="Arex"
         link="https://arex.io/">
-        Working as a software developer on Node.js and Golang microservices as back-end and Vue.js front-end. Now, we are working on migrate a monolith into microservices while we improve current functionalities. 
+        Working as a software developer on Node.js and Golang microservices on back-end and Vue.js on front-end. Now, we are working on migrate a monolith into microservices while we improve current functionalities. 
         At first this was challenging because I changed from PHP to Node.js and Golang.
       </item>
       <item

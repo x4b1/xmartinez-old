@@ -1,6 +1,7 @@
 <template>
   <div>
     <hi-section />
+    <social />
     <bio-section />
     <skills-section />
     <experience-section />
@@ -12,13 +13,15 @@ import HiSection from '~/components/sections/hi'
 import BioSection from '~/components/sections/bio'
 import SkillsSection from '~/components/sections/skills'
 import ExperienceSection from '~/components/sections/experience'
+import Social from '~/components/sections/social'
 
 export default {
   components:{
     HiSection,
     BioSection,
     SkillsSection,
-    ExperienceSection
+    ExperienceSection,
+    Social
   }
 }
 </script>
