@@ -30,6 +30,7 @@ export default {
 
 @font-face {
   font-family: 'Dosis';
+  font-display: auto;
   src: url('~assets/fonts/Dosis/Dosis-Regular.ttf') format('truetype');
 }
 
