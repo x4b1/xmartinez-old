@@ -20,7 +20,7 @@
         size="lg"
         class="icon" />
     </a>
-    <div
+    <a
       class="bubble"
       href="https://www.linkedin.com/in/xmartinez"
       target="_blank"
@@ -29,7 +29,7 @@
         :icon="['fab', 'linkedin']" 
         size="lg"
         class="icon" />
-    </div>
+    </a>
   </div>
 </template>
 
