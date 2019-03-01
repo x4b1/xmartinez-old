@@ -47,7 +47,7 @@ export default {
   },
   data(){
     return {
-      birthday: new Date(1993, 2, 17),
+      birthday: new Date(1993, 1, 17),
       currentDate: new Date()
     }
   },
