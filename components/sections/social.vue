@@ -1,39 +1,33 @@
 <template>
   <div class="social">
     <a
+      v-for="(network, i) in networks"
+      :key="i"
+      :href="network.href"
       class="bubble"
-      href="https://twitter.com/xabi_03"
       target="_blank"
     >
       <fa 
-        :icon="['fab', 'twitter']" 
-        size="lg"
-        class="icon" />
-    </a>
-    <a
-      class="bubble"
-      href="https://www.instagram.com/xabi_93/"
-      target="_blank"
-    >
-      <fa 
-        :icon="['fab', 'instagram']" 
-        size="lg"
-        class="icon" />
-    </a>
-    <a
-      class="bubble"
-      href="https://www.linkedin.com/in/xmartinez"
-      target="_blank"
-    >
-      <fa 
-        :icon="['fab', 'linkedin']" 
+        :icon="network.icon" 
         size="lg"
         class="icon" />
     </a>
   </div>
 </template>
 
-
+<script>
+export default {
+  name: 'Social',
+  data: () => ({
+    networks: [
+      {href: "https://twitter.com/xabi_03", icon: ['fab', 'twitter']},
+      {href: "https://www.instagram.com/xabi_93", icon: ['fab', 'instagram']},
+      {href: "https://www.linkedin.com/in/xmartinez", icon: ['fab', 'linkedin']},
+      {href: "https://github.com/xabi93", icon: ['fab', 'github']},
+    ]
+  })
+}
+</script>
 
 <style lang="scss" scoped>
   .social {
