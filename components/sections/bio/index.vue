@@ -5,7 +5,7 @@
     <div class="body">
       <div class="text">
         <p>
-          My name is <span class="accent">Xabier Martinez Moreno</span>, I born in <span class="accent">Basque Country</span> in <span class="accent">1993</span>, but I moved to <span class="accent">Barcelona</span> some years ago.
+          My name is <span class="accent">Xabier Martinez Moreno</span>, I was born in <span class="accent">Basque Country</span> in <span class="accent">1993</span>, but moved to <span class="accent">Barcelona</span> some years ago.
         </p>
         <p>
           I'm <span class="accent">Software Developer</span>, mainly focused on <span class="accent">backend development</span>, but I dont discard any opportunity to learn and work with new tools.
