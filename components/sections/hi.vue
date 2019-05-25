@@ -1,11 +1,12 @@
 <template>
   <div class="hi">
     <div class="hello">
+      <img
+        src="~/static/me.png"
+        alt="Avatar"
+        class="avatar">
       <div class="salute">
-        Hi! I'm
-      </div>
-      <div class="name">
-        Xabi
+        Hi! I'm <span class="name">Xabi</span>
       </div>
     </div>
   </div>
@@ -19,12 +20,6 @@
   height: 100vh;
   justify-content: center;
   align-items: center;
-  
-  background-image: url("~static/me.jpg");
-  background-size: cover;
-  background-position: 85% 50%;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
 
   .hello {
     color: #ffffff;
@@ -34,8 +29,14 @@
     font-size: 300%;
     border: solid;
     padding: 5%;
-    .name {
-      color: #ff5733;
+    .avatar {
+      border-radius: 50%;
+    }
+    .salute {
+      margin-top: 10%;
+      .name {
+        color: #ff5733;
+      }
     }
   }
 }

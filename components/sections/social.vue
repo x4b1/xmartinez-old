@@ -7,8 +7,8 @@
       class="bubble"
       target="_blank"
     >
-      <fa 
-        :icon="network.icon" 
+      <fa
+        :icon="network.icon"
         size="lg"
         class="icon" />
     </a>
@@ -34,14 +34,14 @@ export default {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 10% 2% 5%;
+    margin: 5% 2%;
     .bubble {
       display: block;
       text-align: center;
       margin: 0px 10px;
       border: 2.5px solid #ff5733;
       border-radius: 50%;
-      height: 5em;    
+      height: 5em;
       width: 5em;
       text-decoration: none;
       :hover {
@@ -52,7 +52,7 @@ export default {
         top: 50%;
         transform: translateY(-50%);
         color: #ffffff;
-        height: 2.5em;    
+        height: 2.5em;
         width: 2.5em;
       }
     }
