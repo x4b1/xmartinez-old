@@ -26,15 +26,6 @@ export default {
 }
 </script>
 <style lang="scss" >
-@import "@/node_modules/normalize.css";
-
-@font-face {
-  font-family: 'Dosis';
-  font-display: fallback;
-  src: url('~assets/fonts/Dosis/Dosis-Regular.ttf') format('truetype');
-}
-
-
 body {
   font-family: "Dosis", sans-serif;
   color: #ffffff;
@@ -49,11 +40,5 @@ body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-}
-
-@media screen and (max-width: 600px) {
-  body {
-
-  }
 }
 </style>
