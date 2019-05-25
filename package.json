@@ -5,7 +5,7 @@
   "author": "Xabi Martinez",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "HOST=0.0.0.0 nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
@@ -13,26 +13,26 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.15",
-    "@fortawesome/free-brands-svg-icons": "^5.7.2",
+    "@fortawesome/fontawesome-svg-core": "^1.2.18",
+    "@fortawesome/free-brands-svg-icons": "^5.8.2",
     "@fortawesome/free-solid-svg-icons": "^5.8.2",
-    "@fortawesome/vue-fontawesome": "^0.1.5",
-    "@nuxtjs/google-analytics": "^2.1.0",
+    "@fortawesome/vue-fontawesome": "^0.1.6",
+    "@nuxtjs/google-analytics": "^2.2.0",
     "cross-env": "^5.2.0",
     "devicon": "git+https://github.com/konpa/devicon.git",
     "eslint-config-prettier": "^3.6.0",
-    "eslint-plugin-prettier": "^3.0.1",
-    "nuxt": "^2.4.5",
+    "eslint-plugin-prettier": "^3.1.0",
+    "nuxt": "^2.7.1",
     "prettier": "^1.17.1",
     "v-tooltip": "^2.0.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.14.1",
+    "eslint": "^5.16.0",
     "eslint-loader": "^2.1.2",
     "eslint-plugin-vue": "^4.0.0",
-    "node-sass": "^4.11.0",
-    "nodemon": "^1.18.10",
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.19.0",
     "normalize.css": "^8.0.1",
     "sass-loader": "^7.1.0"
   }
