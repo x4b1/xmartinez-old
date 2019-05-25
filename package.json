@@ -15,7 +15,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.15",
     "@fortawesome/free-brands-svg-icons": "^5.7.2",
-    "@fortawesome/free-solid-svg-icons": "^5.7.2",
+    "@fortawesome/free-solid-svg-icons": "^5.8.2",
     "@fortawesome/vue-fontawesome": "^0.1.5",
     "@nuxtjs/google-analytics": "^2.1.0",
     "cross-env": "^5.2.0",
@@ -23,11 +23,11 @@
     "eslint-config-prettier": "^3.6.0",
     "eslint-plugin-prettier": "^3.0.1",
     "nuxt": "^2.4.5",
-    "prettier": "^1.16.4",
-    "v-tooltip": "^2.0.0-rc.33"
+    "prettier": "^1.17.1",
+    "v-tooltip": "^2.0.2"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.1",
+    "babel-eslint": "^10.0.1",
     "eslint": "^5.14.1",
     "eslint-loader": "^2.1.2",
     "eslint-plugin-vue": "^4.0.0",
