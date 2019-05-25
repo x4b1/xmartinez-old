@@ -30,7 +30,7 @@ export default {
 
 @font-face {
   font-family: 'Dosis';
-  font-display: auto;
+  font-display: fallback;
   src: url('~assets/fonts/Dosis/Dosis-Regular.ttf') format('truetype');
 }
 
@@ -40,8 +40,20 @@ body {
   color: #ffffff;
 
   background-image: url("~static/background.png");
-  background-attachment: fixed;
+  background-attachment: scroll;
+  height: 100%;
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+
+  }
 }
 </style>
