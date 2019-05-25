@@ -23,7 +23,7 @@
     "eslint-config-prettier": "^3.6.0",
     "eslint-plugin-prettier": "^3.0.1",
     "nuxt": "^2.4.5",
-    "prettier": "^1.16.4",
+    "prettier": "^1.17.1",
     "v-tooltip": "^2.0.0-rc.33"
   },
   "devDependencies": {
